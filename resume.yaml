@@ -306,6 +306,9 @@ skills:
 #       - Code Review
 #       - Swagger
 #     # url: https://www.porteaincontrol.com/
+certification: 
+  - Salesforce administrator
+  - Salesforce PD1
 languages:
   #- language: Hindi
   - language: English
