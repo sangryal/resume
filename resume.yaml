@@ -16,9 +16,9 @@ basics:
   location:
     address: ""
     postalCode: ""
-    city: Udaipur
-    region: Rajasthan
-    countryCode: IN
+    city: Wayne
+    region: New Jersey
+    countryCode: USA
   profiles:
     - network: LinkedIn
       username: sangryal
@@ -33,12 +33,12 @@ basics:
   #   username: govindsinghr3
   #   url: https://www.hackerrank.com/govindsinghr3
 work:
-  - name: PeepalCo (CoinSwitch)
-    location: Bengaluru, India
-    description: PeepalCo is a canopy for brands serving India with tailored wealth-tech products, Making Money Equal for All.
-    url: https://peepal.co/
-    startDate: "2021-12-20"
-    endDate: "2024-07-04"
+  - name: Cognizant (Client:Zoetis)
+    location: Parsippany, USA
+    description: Provided expert support and solutions for Zoetis in a technical support project.
+    #url: https://peepal.co/
+    startDate: "2023-06"
+    endDate: "Present"
     position: Senior Software Engineer
     summary: ""
     highlights:
