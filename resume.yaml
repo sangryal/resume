@@ -96,6 +96,19 @@ work:
       - Configure, maintain, develop and support the salesforce.com application.
       - Customize new and existing page layouts for individual business units within the organization.
       - Client Communication on a daily/weekly basis.
+  - name: Tata Consultancy Services (Client:Bayer)
+    location: Bengaluru, India
+    description:
+      Build multiple roles for SAP users using Ziam tool.
+    #url: https://www.cartoonmango.com/
+    position: System Engineer-Trainee
+    startDate: "2016-06"
+    endDate: "2018-06"
+    summary: ""
+    highlights:
+      - Understand and develop roles for different markets.
+      - Worked on the rollout projec
+      - Analyze the requirement and implement on time with proper testing.
 education:
   - institution: Vellore Institute of Technology, Vellore
     url: https://vit.ac.in/
