@@ -2,7 +2,8 @@
 ---
 meta:
   # theme: jsonresume-theme-elegant
-  theme: jsonresume-theme-stackoverflow
+  #theme: jsonresume-theme-stackoverflow
+  theme: jsonresume-theme-modern
 basics:
   name: Rohit Choudhary
   label: Senior Salesforce Developer
