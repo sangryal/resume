@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json
 ---
 meta:
-  theme: jsonresume-theme-elegant
-  #theme: jsonresume-theme-stackoverflow
+  #theme: jsonresume-theme-elegant
+  theme: jsonresume-theme-stackoverflow
   #theme: jsonresume-theme-modern
 basics:
   name: Rohit Choudhary
@@ -47,7 +47,7 @@ work:
       - Proactively engaged with clients daily, fostering strong relationships and addressing key issues promptly to uphold service level agreements (SLAs).
       - Led functional grooming sessions to refine new requirements, effectively translating business needs into actionable user stories for agile sprints.
       - Coordinated and prioritized tasks within the team to ensure timely delivery of sprint commitments and alignment with project timelines
-      - CMaintained comprehensive documentation of incidents, resolutions, and project progress, ensuring transparency and facilitating knowledge sharing across the organization.
+      - Maintained comprehensive documentation of incidents, resolutions, and project progress, ensuring transparency and facilitating knowledge sharing across the organization.
   - name: Cognizant (Client:Johnson & Johnson)
     location: Bengaluru, India
     description:
