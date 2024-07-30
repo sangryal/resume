@@ -4,20 +4,16 @@ meta:
   # theme: jsonresume-theme-elegant
   theme: jsonresume-theme-stackoverflow
 basics:
-  name: Govind Singh
-  label: Senior Software Engineer
-  image: https://gravatar.com/userimage/210390833/d2be84a266c4e13deca5103595e454ad.jpeg?size=256
+  name: Rohit Choudhary
+  label: Senior Salesforce Developer
+  image: https://media.licdn.com/dms/image/C4E03AQEHb9beq1xnSw/profile-displayphoto-shrink_800_800/0/1616865636803?e=1727913600&v=beta&t=QuYvUtWFKH8TFKEM0jfFhJkkf7g6Q6kUNNbVuQmxrfU
   # image: https://avatars0.githubusercontent.com/u/14184045?s=400&u=aade382a84cf999ef364f2424ebf2c42c1c84078&v=4
-  email: connect.govinds@gmail.com
-  phone: "+919944299002"
-  url: https://govind.guru
+  email: sangryalrohit@gmail.com
+  phone: "+1 (406) 215-7892"
+  #url: https://govind.guru
   summary:
-    Results-oriented and versatile Backend Developer with 8 years of experience in developing and managing complex backend
-    architectures and robust digital products. Proven track record of leading development teams in enterprise-wide projects,
-    with a focus on quality, delivery, and reliability. Formerly with CoinSwitch, UrbanPiper, and Cartoon Mango Digital.
-    Passionate about automating repetitive workflows and enhancing operational efficiency. Skilled mentor, having guided
-    over 10+ team members. Strong time management skills and commitment to delivering high-quality solutions.
-    Skilled in Python, JavaScript, Golang, Rest APIs, Docker, GIT, AWS, Pipelines and Grafana.
+    I am a professional with a Master's in Computer Applications (MCA) and over 8 years of extensive experience in Salesforce
+development and SAP Basis, specializing in Healthcare and Insurance domains. Proficient in Aura, Apex, LWC and SOQL.
   location:
     address: ""
     postalCode: ""
@@ -26,14 +22,14 @@ basics:
     countryCode: IN
   profiles:
     - network: LinkedIn
-      username: connectgovinds
-      url: https://www.linkedin.com/in/connectgovinds
-    - network: Github
-      username: guruor
-      url: https://www.github.com/guruor
-    - network: Calendly
-      username: connect-govinds
-      url: https://calendly.com/connect-govinds
+      username: sangryal
+      url: https://www.linkedin.com/in/sangryal/
+    # - network: Github
+    #   username: guruor
+    #   url: https://www.github.com/guruor
+    # - network: Calendly
+    #   username: connect-govinds
+    #   url: https://calendly.com/connect-govinds
   # - network: HackerRank
   #   username: govindsinghr3
   #   url: https://www.hackerrank.com/govindsinghr3
