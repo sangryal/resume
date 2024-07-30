@@ -129,6 +129,10 @@ skills:
       - ANT
       - Jenkins
       - Jira
+  - name: Certifications
+    keywords:
+      - Salesforce Admin
+      - Salesforce PD1
   - name: Other
     keywords:
       - Leadership
@@ -306,9 +310,7 @@ skills:
 #       - Code Review
 #       - Swagger
 #     # url: https://www.porteaincontrol.com/
-certification: 
-  - Salesforce administrator
-  - Salesforce PD1
+
 languages:
   #- language: Hindi
   - language: English
