@@ -39,15 +39,14 @@ work:
     #url: https://peepal.co/
     startDate: "2023-06"
     endDate: "Present"
-    position: Senior Software Engineer
+    position: Senior Salesforce Developer
     summary: ""
     highlights:
-      - Developed and maintained a dedicated service for fee and discount management, provided more flexibility of configuring fee and discounts for different assets
-      - Developed offer generation module for better flexibility feein/feeout construct, it stored the structured details of various stages of fee, discount, GST and TDS for better audit and tracibility.
-      - Contributed towards the relibility by preparing multiple SOPs and dashboards, resulted in faster incident response
-        times.
-      - Created comprehensive documentation of various in house services, reduced onboarding time for new hires by 40%
-      - Conducted training sessions, promoting best practices and reducing code defects by 15%.
+      - Spearheaded as Onshore Lead for a critical support project, ensuring swift resolution of P1 and P2 incidents to minimize system downtime and maintain operational continuity.
+      - Proactively engaged with clients daily, fostering strong relationships and addressing key issues promptly to uphold service level agreements (SLAs).
+      - Led functional grooming sessions to refine new requirements, effectively translating business needs into actionable user stories for agile sprints.
+      - Coordinated and prioritized tasks within the team to ensure timely delivery of sprint commitments and alignment with project timelines
+      - CMaintained comprehensive documentation of incidents, resolutions, and project progress, ensuring transparency and facilitating knowledge sharing across the organization.
   - name: UrbanPiper Technology Pvt Ltd
     location: Bengaluru, India
     description:
