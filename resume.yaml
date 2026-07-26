@@ -13,8 +13,12 @@ basics:
   phone: "+91 (999) 466-7267"
   #url: https://govind.guru
   summary:
-    I am a professional with a Master's in Computer Applications (MCA) and over 8 years of extensive experience in Salesforce development and SAP Basis, specializing in Healthcare and Insurance domains. Proficient in Aura, Apex, LWC and SOQL.
-  location:
+    Salesforce Technical Lead with 10+ years of IT experience, including 8+ years in Salesforce development, administration and
+production support. Experienced in analysing business change requests and delivering secure, maintainable solutions across
+Sales Cloud, Service Cloud and Lightning using Apex, LWC, Aura, Flow and platform configuration. Strong background in 2ndline support, troubleshooting, data quality controls, reports and dashboards, testing and quality assurance, release
+management and solution documentation. Completed a 15-month US client-site assignment as the primary Salesforce support
+resource; effective in small cross-functional teams and keen to explore responsible AI use cases in CRM.
+location:
     address: ""
     postalCode: ""
     city: Bengaluru
@@ -34,12 +38,40 @@ a    countryCode: India
   #   username: govindsinghr3
   #   url: https://www.hackerrank.com/govindsinghr3
 work:
+- name: Cognizant (Client:Abbott)
+    location: Bengaluru, India
+    description: Abbott Laboratories - TrackWise Digital / Classic-to-Lightning Modernisation | Mar 2025 - Present.
+    #url: https://peepal.co/
+    startDate: "2024-03"
+    endDate: ""
+    position: Senior Salesforce Developer
+    summary: ""
+    highlights:
+    - Lead an offshore team of 2-3 members supporting the further development of TrackWise Digital, a Salesforce-based cloud quality management solution for regulated complaint processes.
+    - Analyse, specify and implement business change requests, translating needs into maintainable Salesforce solutions using Apex, LWC, Flow and platform configuration.
+    - Drive Classic-to-Lightning modernisation, including impact analysis, component remediation, Lightning configuration and user-experience improvements.
+    - Support data quality and secure platform operation through validation rules, record types, page layouts, permissions and controlled access configuration.
+    - Plan managed-package upgrades and releases, coordinating regression testing, quality assurance, deployment, launch activities and post-release support.
+    - Document solutions, configuration, processes and changes through technical designs, impact and risk assessments, test evidence, traceability, deployment plans and release records.
+    - Conduct code reviews, guide team members and demonstrate completed features to business stakeholders to gather feedback and support formal acceptance.
+- name: Cognizant (Client:Abbott)
+    location: Bengaluru, India
+    description: Abbott Laboratories - Oracle Decommissionin.
+    #url: https://peepal.co/
+    startDate: "2024-09"
+    endDate: "2025-02"
+    position: Senior Salesforce Developer
+    summary: ""
+    highlights:
+    - Collaborated with business analysts across markets to clarify requirements and replace Oracle-based functionality with Salesforce capabilities.
+    - Developed synchronous and asynchronous Apex services and an LWC interface, and configured supporting objects, fields, layouts and validation rules.
+    - Migrated documents from Oracle to Salesforce through asynchronous processing and supported delivery governance, testing and deployment documentation.
   - name: Cognizant (Client:Zoetis)
     location: Parsippany, USA
     description: Provided expert support and solutions for Zoetis in a technical support project.
     #url: https://peepal.co/
     startDate: "2023-06"
-    endDate: ""
+    endDate: "2024-08"
     position: Senior Salesforce Developer
     summary: ""
     highlights:
@@ -123,33 +155,105 @@ education:
     startDate: "2011-05-01"
     endDate: "2014-06-01"
 skills:
-  - name: Languages
+  - name: Salesforce Platform
+    keywords:
+      - Salesforce Development
+      - Salesforce Administration
+      - Sales Cloud
+      - Service Cloud
+      - Lightning Experience
+      - Health Cloud
+      - OmniStudio
+   - name: Development
     keywords:
       - Apex
+      - Lightning Web Components (LWC)
+      - Aura Components
+      - Visualforce
       - JavaScript
-      - Java
-      - C
-  - name: Frameworks
+      - SOQL
+      - SOSL
+      - Apex Triggers
+      - Test Classes
+   - name: Asynchronous Apex
     keywords:
-      - LWC
-      - AURA
-  - name: Databases
+      - Batch Apex
+      - Queueable Apex
+      - Schedulable Apex
+      - Future Methods
+  - name: Automation
     keywords:
-      - MYSQL
-  - name: Tools
+      - Salesforce Flow
+      - Validation Rules
+      - Approval Processes
+      - Workflow Rules
+      - Process Builder Migration
+  - name: Integrations
     keywords:
+      - REST APIs
+      - SOAP APIs
+      - Apex Callouts
+      - Named Credentials
+      - JSON
+      - XML
+      - Platform Events
+  - name: Security and Configuration
+    keywords:
+      - Profiles
+      - Permission Sets
+      - Roles
+      - Sharing Rules
+      - Organization-Wide Defaults
+      - Record Types
+      - Page Layouts
+   name: Data and Reporting
+    keywords:
+      - Data Migration
+      - Data Loader
+      - Workbench
+      - Data Quality
+      - Reports
+      - Dashboards
+
+  - name: DevOps and Tools
+    keywords:
+      - Visual Studio Code
       - Git
-      - ANT
+      - Bitbucket
       - Jenkins
+      - ANT
+      - Change Sets
       - Jira
+      - Confluence
+      - Postman
+
+  - name: Delivery and Support
+    keywords:
+      - Requirements Analysis
+      - Solution Design
+      - Agile/Scrum
+      - Code Review
+      - Testing and Quality Assurance
+      - Release Management
+      - Production Support
+      - Incident Management
+      - Technical Documentation
+
+  - name: Leadership
+    keywords:
+      - Technical Leadership
+      - Team Mentoring
+      - Stakeholder Communication
+      - Offshore Coordination
+      - Problem Solving
   - name: Certifications
     keywords:
       - Salesforce Admin
       - Salesforce PD1
-  - name: Other
-    keywords:
-      - Leadership
-      - Time Management
+      - Salesforce PD2
+      - Salesforce OmniStudio
+      - Salesforce Health Cloud
+      - Salesforce Certified Platform App Builder
 # projects:
 #   - name: Offer Service
 #     description: The Offer Service is a multi-tenant backend service designed to handle various asset types and complex calculation logic for trading activities. It includes comprehensive validation checks and stages calculations to enhance trading accuracy, auditability, and system reliability
